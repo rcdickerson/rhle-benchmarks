@@ -9,17 +9,16 @@ Properties](https://arxiv.org/abs/2002.02904).
 ## Citing
 
 If you use these benchmarks, please cite the original [RHLE
-paper](https://arxiv.org/abs/2002.02904):
+paper](https://robd.io/papers/rhle.pdf):
 
 ```
-@misc{https://doi.org/10.48550/arxiv.2002.02904,
-  doi = {10.48550/ARXIV.2002.02904},
-  url = {https://arxiv.org/abs/2002.02904},
-  author = {Dickerson, Robert and Ye, Qianchuan and Zhang, Michael K. and Delaware, Benjamin},
-  title = {RHLE: Modular Deductive Verification of Relational $\forall\exists$ Properties},
-  publisher = {arXiv},
-  year = {2020},
-  copyright = {arXiv.org perpetual, non-exclusive license}
+@inproceedings{dickerson2022rhle,
+  title={{RHLE}: modular deductive verification of relational $\forall\exists$ properties},
+  author={Dickerson, Robert and Ye, Qianchuan and Zhang, Michael K and Delaware, Benjamin},
+  booktitle={Asian Symposium on Programming Languages and Systems},
+  pages={67--87},
+  year={2022},
+  organization={Springer}
 }
 ```
 
